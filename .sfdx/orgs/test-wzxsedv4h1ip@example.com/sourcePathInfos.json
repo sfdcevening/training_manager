@@ -1,0 +1,348 @@
+[
+    [
+        "/Users/ssekhar/demos/training_manager/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527815862858,
+            "changeTime": 1527815862858,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527815862858,
+            "changeTime": 1527815862858,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1527816774347,
+            "changeTime": 1527816774347,
+            "contentHash": "cb7debf685a30bb93894eef8c66f10d76b529269"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1527815862858,
+            "changeTime": 1527815862858,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/demos/training_manager",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1527815985039,
+            "changeTime": 1527815985039,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/Participant__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/Participant__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2127,
+            "modifiedTime": 1527816774146,
+            "changeTime": 1527816774146,
+            "contentHash": "538e9413348f68097e83f1403ae8ab1a43486fa1"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/fields/First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/fields/First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1527816774147,
+            "changeTime": 1527816774147,
+            "contentHash": "1f444e227f64fa76a7ee60fe3adbce7a71b8da0f"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/fields/Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/fields/Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1527816774148,
+            "changeTime": 1527816774148,
+            "contentHash": "aa8380d1cb47de5e4f56d1710045f248facd5d45"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/layouts/Participant__c-Participant Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/layouts/Participant__c-Participant Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2937,
+            "modifiedTime": 1527816774160,
+            "changeTime": 1527816774160,
+            "contentHash": "42ae1ae0cc6912695c28ef51e091cc26260689a2"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/flexipages/Training_Manager_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/flexipages/Training_Manager_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1527816774162,
+            "changeTime": 1527816774162,
+            "contentHash": "be9fab7d65f59f878242c568cc3036ccc5db190b"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/tabs/Participant__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/tabs/Participant__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1527816774165,
+            "changeTime": 1527816774165,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/applications/Training_Manager.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/applications/Training_Manager.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 533,
+            "modifiedTime": 1527816774167,
+            "changeTime": 1527816774167,
+            "contentHash": "8f0b78c8a28ee4b67be9d3c757dc636da532ec11"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5239,
+            "modifiedTime": 1527816774185,
+            "changeTime": 1527816774185,
+            "contentHash": "6f6398af21da047f42ea9eeab936511a2982db3c"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18293,
+            "modifiedTime": 1527816774324,
+            "changeTime": 1527816774324,
+            "contentHash": "ebc80b7f1e165a756a10bd28a2fd6bf64aa69cfa"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4901,
+            "modifiedTime": 1527816774331,
+            "changeTime": 1527816774331,
+            "contentHash": "5cce6c7520a93d7a7374701c0f844d1b7f186784"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4901,
+            "modifiedTime": 1527816774344,
+            "changeTime": 1527816774344,
+            "contentHash": "5cce6c7520a93d7a7374701c0f844d1b7f186784"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/permissionsets/TrainingManager.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/permissionsets/TrainingManager.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 830,
+            "modifiedTime": 1527816774348,
+            "changeTime": 1527816774348,
+            "contentHash": "b65a92bc12c7982894af2520febbc5105ad92e6e"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1527816774147,
+            "changeTime": 1527816774147,
+            "contentHash": "2d1e933aeb47d1f264cd1047e1de9951e9eb4e69"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527816774143,
+            "changeTime": 1527816774143,
+            "contentHash": "26a9ca3319f3aada7ada9c19515c9401c911ff65"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/objects/Participant__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1527816774148,
+            "changeTime": 1527816774148,
+            "contentHash": "5ab171fb63b644959a6b6e9d7b54a44c97811267"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527816774159,
+            "changeTime": 1527816774159,
+            "contentHash": "1ab7a878173a8808446c68196ee8068ced43a5ff"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527816774162,
+            "changeTime": 1527816774162,
+            "contentHash": "2a113686649cdee11369b329fa13b87f2bdca9ad"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527816774165,
+            "changeTime": 1527816774165,
+            "contentHash": "df9aec0719f6b8a8f2b15a400176eb14626e81bd"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527816774167,
+            "changeTime": 1527816774167,
+            "contentHash": "c569709a4c2d525542c69a4b98b180cfe398f3fa"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1527816774343,
+            "changeTime": 1527816774343,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ],
+    [
+        "/Users/ssekhar/demos/training_manager/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ssekhar/demos/training_manager/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1527816774348,
+            "changeTime": 1527816774348,
+            "contentHash": "d26e8518672eab4b14406cfc9025a0ec776e5c60"
+        }
+    ]
+]
